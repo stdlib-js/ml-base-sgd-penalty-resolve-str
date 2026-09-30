@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-09)
+## Unreleased (2026-09-30)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`ec5c016`](https://github.com/stdlib-js/stdlib/commit/ec5c01675c318edf76f655dad057aceed7efacc0) - **chore:** clean-up [(#15680)](https://github.com/stdlib-js/stdlib/pull/15680) _(by Philipp Burckhardt)_
 -   [`84cf3b6`](https://github.com/stdlib-js/stdlib/commit/84cf3b65788b0dff28de1765b309f0ce84a19974) - **feat:** add `ml/base/sgd` _(by nakul-krishnakumar)_
 
 </details>
@@ -34,8 +35,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Philipp Burckhardt
 -   nakul-krishnakumar
 
 </section>
